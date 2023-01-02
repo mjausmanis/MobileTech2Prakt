@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Dialog</string>
+    <string name="activity1title">1st activity</string>
+    <string name="activity2title">2nd activity</string>
+    <string name="member1">Mārtiņš Jēkabs Ausmanis</string>
+    <string name="member2">Markus Vilcāns</string>
+    <string name="member3">Harijs Vīksna</string>
+    <string name="member4">Ieva Ulme</string>
+
+</resources>
